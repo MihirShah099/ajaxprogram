@@ -1,0 +1,19 @@
+[
+	{
+		"sid":1,
+		"sname":"gujarat"
+	},
+	
+	{	
+		"sid":2,
+		"sname":"goa"
+	},
+	{
+		"sid":3,
+		"sname":"kolkatta"
+	},
+	{
+		"sid":4,
+		"sname":"bihar"
+	}
+]
